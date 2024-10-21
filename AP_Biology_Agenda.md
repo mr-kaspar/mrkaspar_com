@@ -1,7 +1,7 @@
 ---
 share: true
 layout: default
-title: AP_Biology_Agenda
+title: AP Biology Agenda
 nav_order: 1
 ---
 | Agenda    | 🧪 Chemistry 🥽                     |
@@ -11,5 +11,3 @@ nav_order: 1
 | Wed 10/23 | Respiration lab Intro (Virtual Day) |
 | Thu 10/24 | Cellular Respiration Notes          |
 | Fri 10/25 | Respiration lab                     |
-
-`Updated 01:20`

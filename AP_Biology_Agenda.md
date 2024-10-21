@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # AP Biology Agenda
 
-| Agenda    | 🧪 Chemistry 🥽                     |
+| Agenda    | 🧬 AP Biology 🦠                    |
 | --------- | ----------------------------------- |
 | Mon 10/21 | Photosynthesis Lab write-up         |
 | Tue 10/22 | Cellular Respiration Notes          |

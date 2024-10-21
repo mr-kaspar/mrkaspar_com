@@ -1,4 +1,5 @@
 ---
+share: true
 title: Home
 layout: home
 ---

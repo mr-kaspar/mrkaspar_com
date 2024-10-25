@@ -12,4 +12,4 @@ nav_order: 1
 | Tue 10/22 | Cellular Respiration Notes          |
 | Wed 10/23 | Respiration lab Intro (Virtual Day) |
 | Thu 10/24 | Cellular Respiration Notes          |
-| Fri 10/25 | Respiration lab                     |
+| Fri 10/25 | Unit 3 Progress Check               |

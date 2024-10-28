@@ -6,10 +6,10 @@ nav_order: 2
 ---
 # Chemistry Honors Agenda
 
-| Agenda    | 🧪 Chemistry 🥽                             |
-| --------- | ------------------------------------------- |
-| Mon 10/21 | Notes: Electrons and quantum energy         |
-| Tue 10/22 | Electrons Practice & Bunsen burner practice |
-| Wed 10/23 | Electrons - Schoology (Digital Day)         |
-| Thu 10/24 | Lab: Flame test                             |
-| Fri 10/25 | Mole Day - Sign ups on Schoology!           |
+| Agenda | 🧪 Chemistry 🥽 |
+| ------ | --------------- |
+| 10/28  | Quiz            |
+| 10/29  | Alien Lab       |
+| 10/30  | Alien Lab       |
+| 10/31  | TBA             |
+| 11/1   | TBA             |

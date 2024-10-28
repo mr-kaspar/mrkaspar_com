@@ -6,10 +6,10 @@ nav_order: 1
 ---
 # AP Biology Agenda
 
-| Agenda    | 🧬 AP Biology 🦠                             |
-| --------- | -------------------------------------------- |
-| Mon 10/21 | Photosynthesis Lab write-up                  |
-| Tue 10/22 | Cellular Respiration Notes                   |
-| Wed 10/23 | Respiration lab Intro (Virtual Day)          |
-| Thu 10/24 | Cellular Respiration Notes                   |
-| Fri 10/25 | Unit 3 Progress Check<br>~~Respiration lab~~ |
+| Agenda | 🧬 AP Biology 🦠                           |
+| ------ | ------------------------------------------ |
+| 10/28  | Respiration lab <br>Go over progress check |
+| 10/29  | Respiration Lab                            |
+| 10/30  | Test Review                                |
+| 10/31  | Test Review                                |
+| 11/1   | Unit 3 Test                                |

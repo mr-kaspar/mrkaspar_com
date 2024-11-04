@@ -5,4 +5,4 @@ share: true
 
 ### A place to post some information for my classroom
 
-> README
+📝Obsidian → 👨‍💻 Github → 🌐 MrKaspar.com

@@ -6,6 +6,8 @@ layout: home
 
 # MrKaspar.com
 
-### A place to post some information for my classroom
+### Mr. Kaspar's classroom agendas
 
-> index
+<a href="./AP_Biology_Agenda.html">🧬 AP Biology Agenda 🦠</a>
+<br>
+<a href="./Chemistry_Honors_Agenda.html">🧪 Chemistry Honors Agenda 🥽</a>

@@ -1,15 +1,17 @@
 ---
 share: true
-layout: default
+layout: minimal
 title: AP Biology Agenda
 nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠
 
-| Day | Date | Agenda        |
-| ---:|:----:| ------------- |
-| Mon | 11/4 | Enzymes intro |
-| Tue | 11/5 | Enzymes Notes |
-| Wed | 11/6 | Enzymes Notes |
-| Thu | 11/7 | Enzymes Quiz  |
-| Fri | 11/8 | Unit 4 Intro  |
+| Day | Date  | Agenda                    |
+| --: | :---: | ------------------------- |
+| Mon | 11/11 | Feedback Video            |
+| Tue | 11/12 | Notes: Cell communication |
+| Wed | 11/6  | Notes: Cell communication |
+| Thu | 11/7  | FRQ                       |
+| Fri | 11/8  | Notes: Cell Cycle         |
+
+This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule{: .fs-2 }

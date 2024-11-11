@@ -9,8 +9,8 @@ layout: home
 
 ## Mr. Kaspar's classroom agendas 
 
-[🧬 AP Biology Agenda 🦠]("./AP_Biology_Agenda.html")
-{: .btn .btn-blue }
+[AP Biology Agenda]("./AP_Biology_Agenda.html")
+{: .btn .btn-blue .text-white}
 <br>
 [Chemistry Honors Agenda]("./Chemistry_Honors_Agenda.html")
-{: .btn .btn-green }
+{: .btn .btn-green .text-white}

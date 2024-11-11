@@ -5,7 +5,6 @@ title: AP Biology Agenda
 nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠
-{: .no_toc .text-delta }
 
 | Day | Date  | Agenda                    |
 | ---:|:-----:| ------------------------- |

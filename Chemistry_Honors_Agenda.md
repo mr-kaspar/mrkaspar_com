@@ -1,6 +1,6 @@
 ---
 share: true
-layout: default
+layout: minimal
 title: Chemistry Honors Agenda
 nav_order: 2
 ---
@@ -13,3 +13,5 @@ nav_order: 2
 | Wed | 11/6 | Practice: Electron Configuration |
 | Thu | 11/7 | Practice: Electron Configuration |
 | Fri | 11/8 | Quiz: Electron Configuration     |
+
+This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule{: .fs-2 }

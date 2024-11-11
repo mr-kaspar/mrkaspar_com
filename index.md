@@ -5,9 +5,11 @@ layout: home
 ---
 
 # MrKaspar.com
+{: .no_toc }
 
 ### Mr. Kaspar's classroom agendas 
-{: .fh-default }
+{: .no_toc .text-delta }
+
 [🧬 AP Biology Agenda 🦠]("./AP_Biology_Agenda.html") {: .btn .btn-outline }
 <br>
 [🧪 Chemistry Honors Agenda 🥽]("./Chemistry_Honors_Agenda.html") {: .btn .btn-outline }

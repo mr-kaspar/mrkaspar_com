@@ -14,4 +14,5 @@ nav_order: 2
 | Thu | 11/14 | Notes: Bonding               |
 | Fri | 11/15  | Science Reading Activity     |
 
-This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule {: .fs-2 }
+This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule
+{: .fs-1 }

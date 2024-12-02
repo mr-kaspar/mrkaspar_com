@@ -6,13 +6,27 @@ nav_order: 2
 ---
 # 🧪 Chemistry Honors Agenda 🥽
 
-| Day |  Day  | Agenda                           |
-| ---:|:-----:| -------------------------------- |
-| Mon | 11/18 | Notes: Bonding                   |
-| Tue | 11/19 | Practice: Identifying Bond Types |
-| Wed | 11/20 | Practice: Polarity               |
-| Thu | 11/21 | Lewis Dot Structures             |
-| Fri | 11/22 | Quiz: Bonding and Lewis Dot      |
+### Period 5
+
+| Day | Date  | Agenda                                                             |
+| ---:|:-----:| ------------------------------------------------------------------ |
+| Mon | 12/02 | Lewis Dot Structures – Ionic Bond Polarity Using electronegativity |
+| Tue | 12/03 | 5th period does not meet                                           |
+| Wed | 12/04 | Mixed Practice - Ionic and Covalent                                |
+| Thu | 12/05 | Test Review                                                        |
+| Fri | 12/06 | Test                                                               |
+
+-------------------------------------------------------------
+
+### Period 7
+
+| Day | Date  | Agenda                                                           |
+| ---:|:-----:| ---------------------------------------------------------------- |
+| Mon | 12/02 | Lewis Dot Structures – Ionic Bond intro                          |
+| Tue | 12/03 | 7th period does not meet                                         |
+| Wed | 12/04 | Ionic Bond Polarity Using electronegativity + Lewis dot practice |
+| Thu | 12/05 | Test Review                                                      |
+| Fri | 12/06 | Test                                                             |
 
 <p style="font-size: small">
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule

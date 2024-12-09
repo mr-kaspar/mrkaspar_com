@@ -6,13 +6,13 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠
 
-| Day | Date  | Prd | Agenda                                                                      |
-| ---:|:-----:| --- | --------------------------------------------------------------------------- |
-| Mon | 12/02 | 1,3 | Heredity: Notes, activity, and practice                                     |
-| Tue | 12/03 | 2,4 | Heredity: Notes, activity, and practice (last day for Unit 3 retake)        |
-| Wed | 12/04 | all | Introduction to Non-Mendelian Genetics                                      |
-| Thu | 12/05 | all | Non-Mendelian Genetics practice and Introduction to Chromosomal Inheritance |
-| Fri | 11/22 | all | Practice: Non-Mendelian heredity                                            |
+| Day | Date  | Agenda              |
+| --: | :---: | ------------------- |
+| Mon | 12/09 | Test Review         |
+| Tue | 12/10 | Test Review         |
+| Wed | 12/11 | Test: Genetics      |
+| Thu | 12/12 | Collaborative Curve |
+| Fri | 12/13 | Intro: Unit 6       |
 
 <p style="font-size: small">
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule

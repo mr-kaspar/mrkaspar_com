@@ -9,7 +9,7 @@ nav_order: 1
 | Day | Date  | Prd | Agenda                                                                      |
 | ---:|:-----:| --- | --------------------------------------------------------------------------- |
 | Mon | 12/02 | 1,3 | Heredity: Notes, activity, and practice                                     |
-| Tue | 12/03 | 2,4 | Heredity: Notes, activity, and practice                                     |
+| Tue | 12/03 | 2,4 | Heredity: Notes, activity, and practice (last day for Unit 3 retake)        |
 | Wed | 12/04 | all | Introduction to Non-Mendelian Genetics                                      |
 | Thu | 12/05 | all | Non-Mendelian Genetics practice and Introduction to Chromosomal Inheritance |
 | Fri | 11/22 | all | Practice: Non-Mendelian heredity                                            |

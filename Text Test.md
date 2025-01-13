@@ -1,5 +1,5 @@
 ---
-share: true
+share: false
 layout: minimal
 title: "Text Text" 
 nav_order: 3

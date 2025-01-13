@@ -6,8 +6,6 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠
 
-'Lab'
-{: .Notes }
 
 | Day | Date  | Agenda                                       |
 | --- | ----- | -------------------------------------------- |
@@ -20,8 +18,8 @@ nav_order: 1
 | Day | Date  | Agenda                                                        |
 | --- | ----- | ------------------------------------------------------------- |
 | Mon | 01/20 | Birthday of Martin Luther King, Jr. - Student/teacher holiday |
-| Tue | 01/21 | {: .Notes } Biotechnology                                                 |
-| Wed | 01/22 | 'Lab' Electrophoresis Day 1                                   |
+| Tue | 01/21 | Notes {: .label } Biotechnology                                                 |
+| Wed | 01/22 | `Lab` Electrophoresis Day 1                                   |
 | Thu | 01/23 | Lab: Electrophoresis Day 2                                    |
 | Fri | 01/24 | Lab: Electrophoresis Day 3                                    |
 

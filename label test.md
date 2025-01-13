@@ -4,8 +4,10 @@ layout: minimal
 title: label test
 nav_order: 3
 ---
-Default label
-{: .label }
+
+
+
+Default label {: .label }
 
 Blue label
 {: .label .label-blue }

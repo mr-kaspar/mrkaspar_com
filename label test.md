@@ -5,7 +5,13 @@ title: label test
 nav_order: 3
 ---
 
-1009
+1011
+
+
+| A   | B   | C   |
+| --- | --- | --- |
+| 1   | 2   | 3   |
+| 9   | 8   | 7    |
 
 
 Default label {: .label }

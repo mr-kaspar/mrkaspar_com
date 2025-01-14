@@ -75,5 +75,16 @@ nav_order: 3
 **Fri (01/10)**
 - :white_check_mark: **Test**: Mixed Naming (Molecular + Ionic)
 
+---
+
+# Bullet | **Date** | Emoji | Description
+
+- **Mon 01/06** :alembic: Activity: Naming Molecules
+- **Tue 01/07:** :pencil: Notes: Naming Molecules
+- **Wed 01/08:** 
+  - :question: Quiz: Naming Molecules  
+  - :information_source: Intro: Naming Ionic Compounds
+- **Thu 01/09:** :running: Activity - Speed Challenges
+- **Fri 01/10:** :white_check_mark: Test - Mixed Naming Practice
 
 

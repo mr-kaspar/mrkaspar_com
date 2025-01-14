@@ -7,11 +7,11 @@ nav_exclude: true
 
 ## Bullet List With Labels
 
-- `**Mon 01/13**`<span class="label label-blue">Practice</span>Naming compounds- covalent & ionic (with transition and polyatomic)
-- `**Tue 01/14:**`<span class="label label-green">Review</span> Game - Naming Ionic compounds with transition and polyatomic 
-- `**Wed 01/15:**`<span class="label label-red">Test</span>Naming compounds- covalent & ionic (with transition and polyatomic)
-- `**Thu 01/16:**`<span class="label label-purple">Discussion</span>Going over Naming Test
-- `**Fri 01/19:**`<span class="label label-blue">Intro</span>Molar calculations
+- **`Mon 01/13`**<span class="label label-blue">Practice</span>Naming compounds- covalent & ionic (with transition and polyatomic)
+- **`Tue 01/14`**<span class="label label-green">Review</span> Game - Naming Ionic compounds with transition and polyatomic 
+- **`Wed 01/15`**<span class="label label-red">Test</span>Naming compounds- covalent & ionic (with transition and polyatomic)
+- **`Thu 01/16`**<span class="label label-purple">Discussion</span>Going over Naming Test
+- **`Fri 01/19`**<span class="label label-blue">Intro</span>Molar calculations
 
 ---
 
@@ -24,11 +24,22 @@ nav_exclude: true
 | `Fri 01/17` | **Practice** | Molar mass conversions                                     | 
 
 ---
+- Mon (01/13) **Practice** Naming compounds- covalent & ionic (with transition and polyatomic)
+- Tue (01/14) **Review** Game - Naming Ionic compounds with transition and polyatomic
+
+---
+
 
 ## Bullet List Without Labels
 
-- **Mon 01/13:** <span class="label label-blue">Practice</span>Naming compounds- covalent & ionic (with transition and polyatomic)
-- **Tue 01/14:** <span class="label label-green">Review</span> Game - Naming Ionic compounds with transition and polyatomic 
+**Mon 01/13:** 
+<span style="display:inline-block; width:80px;" class="label label-blue">Practice</span>
+Naming compounds – covalent & ionic
+
+**Tue 01/14:** 
+<span style="display:inline-block; width:80px;" class="label label-green">Review</span>
+Game – Naming ionic compounds
+
 - **Wed 01/15:** <span class="label label-red">Test</span>Naming compounds- covalent & ionic (with transition and polyatomic)
 - **Thu 01/16:** <span class="label label-purple">Discussion</span>Goinng over Naming Test
 - **Fri 01/19:** <span class="label label-blue">Intro</span>Molar calculations

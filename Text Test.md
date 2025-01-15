@@ -4,156 +4,71 @@ layout: default
 title: "Text Text" 
 nav_exclude: true
 ---
+## Original Table
 
-## Bullet List With Labels
-
-- **`Mon 01/13`**<span class="label label-blue">Practice</span>Naming compounds- covalent & ionic (with transition and polyatomic)
-- **`Tue 01/14`**<span class="label label-green">Review</span> Game - Naming Ionic compounds with transition and polyatomic 
-- **`Wed 01/15`**<span class="label label-red">Test</span>Naming compounds- covalent & ionic (with transition and polyatomic)
-- **`Thu 01/16`**<span class="label label-purple">Discussion</span>Going over Naming Test
-- **`Fri 01/19`**<span class="label label-blue">Intro</span>Molar calculations
-
----
-
-| Date |     | Agenda                                                               |
-| --- | ----- | -------------------------------------------------------------------- |
-| `Mon 01/13` | **Practice** | Naming - Covalent & Ionic (with transition and polyatomic) |
-| `Tue 01/14` | **Review**   | Naming - Covalent & Ionic (with transition and polyatomic)   |
-| `Wed 01/15` | **Test**  | Naming - Covalent & Ionic (with transition and polyatomic)     |
-| `Thu 01/16` | **Notes**  | Molar mass conversions                                        |
-| `Fri 01/17` | **Practice** | Molar mass conversions                                     | 
-
----
-- Mon (01/13) **Practice** Naming compounds- covalent & ionic (with transition and polyatomic)
-- Tue (01/14) **Review** Game - Naming Ionic compounds with transition and polyatomic
+| Day | Date  | Agenda                                       |
+| --- | ----- | -------------------------------------------- |
+| Mon | 01/13 | Quiz: Protein Synthesis and DNA replication  |
+| Tue | 01/14 | Notes: Regulation of Gene Expression         |
+| Wed | 01/15 | Notes: Regulation of Gene Expression (cont.) |
+| Thu | 01/16 | Activity: Regulation of Gene Expression      |
+| Fri | 01/17 | Quiz: Regulation of Gene Expression          |
 
 ---
 
-
-## Bullet List Without Labels
-
-**Mon 01/13:** 
-<span style="display:inline-block; width:80px;" class="label label-blue">Practice</span>
-Naming compounds – covalent & ionic
-
-**Tue 01/14:** 
-<span style="display:inline-block; width:80px;" class="label label-green">Review</span>
-Game – Naming ionic compounds
-
-- **Wed 01/15:** <span class="label label-red">Test</span>Naming compounds- covalent & ionic (with transition and polyatomic)
-- **Thu 01/16:** <span class="label label-purple">Discussion</span>Goinng over Naming Test
-- **Fri 01/19:** <span class="label label-blue">Intro</span>Molar calculations
-
-
-
-# Bullets
-
-## Bullet List for Days
-
-- **Mon 01/06:** <span class="label label-blue">Activity ⚗</span> Naming Molecules
-- **Tue 01/07:** <span class="label label-green">Notes 📝</span> Naming Molecules
-- **Wed 01/08:** 
-  - <span class="label label-yellow">Quiz ❓</span> Naming Molecules  
-  - <span class="label label-purple">Intro ℹ</span> Naming Ionic Compounds
-- **Thu 01/09:** <span class="label label-blue">Activity 🏃‍♀️</span> Speed Challenges
-- **Fri 01/10:** <span class="label label-red">Test ☑</span> Mixed Naming Practice
+- **Mon 01/06** <span class="label label-blue">Activity</span> Naming Molecules
+- **Tue 01/07** <span class="label label-green">Notes</span> Naming Molecules
+- **Wed 01/08** 
+  - <span class="label label-yellow">Quiz</span> Naming Molecules  
+  - <span class="label label-purple">Intro</span> Naming Ionic Compounds
+- **Thu 01/09** <span class="label label-blue">Activity</span> Speed Challenges
+- **Fri 01/10** <span class="label label-red">Test</span> Mixed Naming Practice
 
 ---
 
-## Github Readme Style
-
-**Mon (01/06)**
-- 🧪 **Activity**: Naming Molecules
-
-**Tue (01/07)**
-- 📝 **Notes**: More about molecular naming
-
-**Wed (01/08)**
-- ❓ **Quiz**: Naming Molecules  
-- ✨ **Intro**: Ionic Compounds
-
-**Thu (01/09)**
-- 🏃 **Activity**: Speed Challenge on formula writing
-
-**Fri (01/10)**
-- ✅ **Test**: Mixed Naming (Molecular + Ionic)
+- `Mon 01/13`<span style="display:inline-block; width:100px;" class="label label-blue">Practice</span>Naming compounds- covalent & ionic (with transition and polyatomic)
+- `Tue 01/14`<span style="display:inline-block; width:100px;" class="label label-green">Review</span> Game - Naming Ionic compounds with transition and polyatomic 
+- `Wed 01/15`<span style="display:inline-block; width:100px;" class="label label-red">Test</span>Naming compounds- covalent & ionic (with transition and polyatomic)
+- `Thu 01/16`<span style="display:inline-block; width:100px;" class="label label-purple">Discussion</span>Going over Naming Test
+- `Fri 01/19`<span style="display:inline-block; width:100px;" class="label label-blue">Intro</span>Molar calculations
 
 ---
 
-## Bullet | **Date** | Emoji | Description
-
-- **Mon 01/06** ⚗ Activity: Naming Molecules
-- **Tue 01/07:** 📝 Notes: Naming Molecules
-- **Wed 01/08:** 
-  - ❓ Quiz: Naming Molecules  
-  - ℹ Intro: Naming Ionic Compounds
-- **Thu 01/09:** 🙋 Activity - Speed Challenges
-- **Fri 01/10:** ✔ Test - Mixed Naming Practice
+| Day | Date  | Agenda                                       |
+| --- | ----- | -------------------------------------------- |
+| Mon | 01/13 | ❓ Quiz: Protein Synthesis and DNA replication  |
+| Tue | 01/14 | 📝 Notes: Regulation of Gene Expression         |
+| Wed | 01/15 | Notes: Regulation of Gene Expression (cont.) |
+| Thu | 01/16 | 🏃 Activity: Regulation of Gene Expression      |
+| Fri | 01/17 | Quiz: Regulation of Gene Expression          |
 
 ---
 
-# No Bullets
-
-## List for Days
-
-**Mon 01/06:** <span class="label label-blue">Activity ⚗</span> Naming Molecules  
-**Tue 01/07:** <span class="label label-green">Notes 📝</span> Naming Molecules  
-**Wed 01/08:**  
-- <span class="label label-yellow">Quiz ❓</span> Naming Molecules  
-- <span class="label label-purple">Intro ℹ</span> Naming Ionic Compounds  
-**Thu 01/09:** <span class="label label-blue">Activity 🏃‍♀️</span> Speed Challenges  
-**Fri 01/10:** <span class="label label-red">Test ☑</span> Mixed Naming Practice  
-
-## No Emoji
-
-**Mon 01/06:** <span class="label label-blue">Activity</span> Naming Molecules  
-**Tue 01/07:** <span class="label label-green">Notes</span> Naming Molecules  
-**Wed 01/08:**  
-- <span class="label label-yellow">Quiz</span> Naming Molecules  
-- <span class="label label-purple">Intro</span> Naming Ionic Compounds  
-**Thu 01/09:** <span class="label label-blue">Activity</span> Speed Challenges  
-**Fri 01/10:** <span class="label label-red">Test</span> Mixed Naming Practice  
+| Day | Date  | Agenda                                       |
+| --- | ----- | -------------------------------------------- |
+| Mon | 01/13 | ❓ **Quiz** Protein Synthesis and DNA replication  |
+| Tue | 01/14 | 📝 **Notes** Regulation of Gene Expression         |
+| Wed | 01/15 | ℹ **Notes** Regulation of Gene Expression (cont.) |
+| Thu | 01/16 | 🏃 **Activity** Regulation of Gene Expression      |
+| Fri | 01/17 | ⚗ **Quiz** Regulation of Gene Expression          |
 
 ---
 
-# Github Readme Style (not really)
-
-**Mon (01/06)**  
-🧪 **Activity**: Naming Molecules  
-  
-**Tue (01/07)**  
-📝 **Notes**: More about molecular naming  
-  
-**Wed (01/08)**  
-❓ **Quiz**: Naming Molecules  
-✨ **Intro**: Ionic Compounds  
-  
-**Thu (01/09)**  
-🏃 **Activity**: Speed Challenge on formula writing  
-  
-**Fri (01/10)**  
-- ✅ **Test**: Mixed Naming (Molecular + Ionic)  
+| Day | Date  | Agenda                                       |
+| --- | ----- | -------------------------------------------- |
+| Mon 01/13 | ❓ **Quiz** | Protein Synthesis and DNA replication  |
+| Tue 01/14 | 📝 **Notes** | Regulation of Gene Expression         |
+| Wed 01/15 | ℹ **Notes**  |Regulation of Gene Expression (cont.) |
+| Thu 01/16 | 🏃 **Activity** | Regulation of Gene Expression      |
+| Fri 01/17 | ⚗ **Quiz** | Regulation of Gene Expression          |
 
 ---
 
-## **Date** | Emoji | Description
+| Day | Date  | Agenda                                       |
+| --- | ----- | -------------------------------------------- |
+| Mon [01/13] | **Quiz** | Protein Synthesis and DNA replication  |
+| Tue [01/14] | **Notes** | Regulation of Gene Expression         |
+| Wed [01/15] | **Notes**  |Regulation of Gene Expression (cont.) |
+| Thu [01/16] | **Activity** | Regulation of Gene Expression      |
+| Fri [01/17] | **Quiz** | Regulation of Gene Expression          |
 
-**Mon 01/06** ⚗ Activity: Naming Molecules  
-**Tue 01/07:** 📝 Notes: Naming Molecules  
-**Wed 01/08:**  
-- ❓ Quiz: Naming Molecules  
-- ℹ Intro: Naming Ionic Compounds  
-**Thu 01/09:** 🙋 Activity - Speed Challenges  
-**Fri 01/10:** ✔ Test - Mixed Naming Practice  
-
----
-
-## Emoji | **Date** | Description
-
-⚗ **Mon 01/06** Activity - Naming Molecules  
-📝 **Tue 01/07:** Notes - Naming Molecules  
-**Wed 01/08:**  
-❓ Quiz - Naming Molecules  
-ℹ Intro - Naming Ionic Compounds  
-🙋 **Thu 01/09:** Activity - Speed Challenges  
-✔ **Fri 01/10:** Test - Mixed Naming Practice  

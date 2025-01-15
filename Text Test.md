@@ -4,7 +4,16 @@ layout: default
 title: "Text Text" 
 nav_exclude: true
 ---
-## Original Table
+```
+| Day | Date  | Agenda                                       |
+| --- | ----- | -------------------------------------------- |
+| Mon | 01/13 | Quiz: Protein Synthesis and DNA replication  |
+| Tue | 01/14 | Notes: Regulation of Gene Expression         |
+| Wed | 01/15 | Notes: Regulation of Gene Expression (cont.) |
+| Thu | 01/16 | Activity: Regulation of Gene Expression      |
+| Fri | 01/17 | Quiz: Regulation of Gene Expression          |
+```
+---
 
 | Day | Date  | Agenda                                       |
 | --- | ----- | -------------------------------------------- |
@@ -71,4 +80,14 @@ nav_exclude: true
 | Wed [01/15] | **Notes**  |Regulation of Gene Expression (cont.) |
 | Thu [01/16] | **Activity** | Regulation of Gene Expression      |
 | Fri [01/17] | **Quiz** | Regulation of Gene Expression          |
+
+---
+
+| Day         | Agenda                                            |
+| ----------- | ------------------------------------------------- |
+| Mon (01/13) | ❓ **Quiz** Protein Synthesis and DNA replication |
+| Tue (01/14) | 📝 **Notes** Regulation of Gene Expression        |
+| Wed (01/15) | ℹ **Notes** Regulation of Gene Expression (cont.) |
+| Thu (01/16) | 🏃 **Activity** Regulation of Gene Expression     |
+| Fri (01/17) | ⚗ **Quiz** Regulation of Gene Expression          |
 

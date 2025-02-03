@@ -6,13 +6,14 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                        |  
-| --- | ----- | ----------------------------- |  
-|     |       |                               |  
-| Mon | 02/03 | Unit 6 Test                   |  
-| Tue | 02/04 | Unit 6 Test Curve/Remediation |  
-| Wed | 02/05 | Unit 7 Notes                  |  
-| Thu |       |                               |  
+| Day | Date  | Agenda                  |  
+| --- | ----- | ----------------------- |  
+|     |       |                         |  
+| Mon | 02/03 | **Test:** Unit 6 Test   |  
+| Tue | 02/04 | **Collaborative Curve** |  
+| Wed | 02/05 | **Notes:** Unit 7       |  
+| Thu | 02/05 | **Notes:** Unit 7       |  
+| Fri | 02.05 | TBD                     |  
   
   
   

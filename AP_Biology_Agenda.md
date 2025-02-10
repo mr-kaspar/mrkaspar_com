@@ -6,14 +6,13 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                  |  
-| --- | ----- | ----------------------- |  
-|     |       |                         |  
-| Mon | 02/03 | **Test:** Unit 6 Test   |  
-| Tue | 02/04 | **Collaborative Curve** |  
-| Wed | 02/05 | **Notes:** Unit 7       |  
-| Thu | 02/05 | **Notes:** Unit 7       |  
-| Fri | 02.05 | TBD                     |  
+| Day | Date  | Agenda                                   |  
+| --- | ----- | ---------------------------------------- |  
+| Mon | 02/10 | **Practice:** Hardy-Weinberg equations   |  
+| Tue | 02/11 | **Notes:** Other Mechanisms of Evolution |  
+| Wed | 02/12 | **Notes:** Evidence for Evolution        |  
+| Thu | 02/13 | **FRQ Practice**                         |  
+| Fri | 03/14 | **Teacher Work Day**                     |  
   
   
   

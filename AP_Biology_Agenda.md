@@ -6,13 +6,19 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                                   |  
-| --- | ----- | ---------------------------------------- |  
-| Mon | 02/10 | **Practice:** Hardy-Weinberg equations   |  
-| Tue | 02/11 | **Notes:** Other Mechanisms of Evolution |  
-| Wed | 02/12 | **Notes:** Evidence for Evolution        |  
-| Thu | 02/13 | **FRQ Practice**                         |  
-| Fri | 03/14 | **Teacher Work Day**                     |  
+| Day | Date  | Agenda                                                               |  
+| --- | ----- | -------------------------------------------------------------------- |  
+| Mon | 02/17 | **Student/Teacher Holiday**                                          |  
+| Tue | 02/18 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
+| Wed | 02/19 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
+| Thu | 02/20 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
+| Fri | 02/21 | **Notes:** Evidence for Evolution (cont.)                            |  
+|     |       | 'NEXT WEEK'                                                          |  
+| Mon | 2/24  | **Classwork:** Work on study guide / Finish lab report               |  
+| Tue | 2/25  | **Digital Day Assignment:** Control of Gene Expression in Eukaryotes |  
+| Wed | 2/26  | **Test Review**                                                      |  
+| Thu | 2/27  | **Test:** Unit 7 - Evolution                                         |  
+| Fri | 2/28  | Collaborative Curve                                                  |  
   
   
   

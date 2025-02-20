@@ -14,11 +14,11 @@ nav_order: 1
 | Thu | 02/20 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
 | Fri | 02/21 | **Notes:** Evidence for Evolution (cont.)                            |  
 |     |       | 'NEXT WEEK'                                                          |  
-| Mon | 2/24  | **Classwork:** Work on study guide / Finish lab report               |  
-| Tue | 2/25  | **Digital Day Assignment:** Control of Gene Expression in Eukaryotes |  
-| Wed | 2/26  | **Test Review**                                                      |  
-| Thu | 2/27  | **Test:** Unit 7 - Evolution                                         |  
-| Fri | 2/28  | Collaborative Curve                                                  |  
+| Mon | 02/24 | **Classwork:** Work on study guide / Finish lab report               |  
+| Tue | 02/25 | **Digital Day Assignment:** Control of Gene Expression in Eukaryotes |  
+| Wed | 02/26 | **Test Review**                                                      |  
+| Thu | 02/27 | **Test:** Unit 7 - Evolution                                         |  
+| Fri | 02/28 | Collaborative Curve                                                  |  
   
   
   

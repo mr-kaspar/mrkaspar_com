@@ -6,19 +6,19 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                                                               |  
-| --- | ----- | -------------------------------------------------------------------- |  
-| Mon | 02/17 | **Student/Teacher Holiday**                                          |  
-| Tue | 02/18 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
-| Wed | 02/19 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
-| Thu | 02/20 | **Lab:** Hardy-Weinberg - Simulating Populations in a Spreadsheet    |  
-| Fri | 02/21 | **Notes:** Evidence for Evolution (cont.)                            |  
-|     |       | 'NEXT WEEK'                                                          |  
-| Mon | 02/24 | **Classwork:** Work on study guide / Finish lab report               |  
-| Tue | 02/25 | **Digital Day Assignment:** Control of Gene Expression in Eukaryotes |  
-| Wed | 02/26 | **Test Review**                                                      |  
-| Thu | 02/27 | **Test:** Unit 7 - Evolution                                         |  
-| Fri | 02/28 | Collaborative Curve                                                  |  
+| Day | Date  | Agenda                                      |  
+| --- | ----- | ------------------------------------------- |  
+| Mon | 03/03 | **Notes**: Phylogeny, Biogenesis            |  
+| Tue | 03/04 | **Notes & Practice**: Phylogeny, Biogenesis |  
+| Wed | 03/05 | **Practice**: Phylogeny                     |  
+| Thu | 03/06 | **FRQ Practice:**                           |  
+| Fri | 03/07 | **Intro:** Speciation                       |  
+|     |       | 'NEXT WEEK'                                 |  
+| Mon | 03/10 | **Intro:** Speciation (cont.)               |  
+| Tue | 03/11 | **Notes/Activity**: Speciation              |  
+| Wed | 03/12 | **Quiz**                                    |  
+| Thu | 03/13 | **TBA:**                                    |  
+| Fri | 03/14 | Planning Day: No school for students        |  
   
   
   

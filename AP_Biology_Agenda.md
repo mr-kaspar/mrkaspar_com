@@ -17,8 +17,8 @@ nav_order: 1
 | Mon | 03/10 | **Intro:** Speciation (cont.)               |  
 | Tue | 03/11 | **Notes/Activity**: Speciation              |  
 | Wed | 03/12 | **Quiz**                                    |  
-| Thu | 03/13 | **TBA:**                                    |  
-| Fri | 03/14 | Planning Day: No school for students        |  
+| Thu | 03/13 | **TBA**                                    |  
+| Fri | 03/14 | **Planning Day:** No school for students        |  
   
   
   

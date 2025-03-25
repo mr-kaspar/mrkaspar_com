@@ -6,19 +6,16 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                                      |  
-| --- | ----- | ------------------------------------------- |  
-| Mon | 03/03 | **Notes**: Phylogeny, Biogenesis            |  
-| Tue | 03/04 | **Notes & Practice**: Phylogeny, Biogenesis |  
-| Wed | 03/05 | **Practice**: Phylogeny                     |  
-| Thu | 03/06 | **FRQ Practice:**                           |  
-| Fri | 03/07 | **Intro:** Speciation                       |  
-|     |       | 'NEXT WEEK'                                 |  
-| Mon | 03/10 | **Intro:** Speciation (cont.)               |  
-| Tue | 03/11 | **Notes/Activity**: Speciation              |  
-| Wed | 03/12 | **Quiz**                                    |  
-| Thu | 03/13 | **TBA**                                    |  
-| Fri | 03/14 | **Planning Day:** No school for students        |  
+| Day | Date  | Agenda                                          |  
+| --- | ----- | ----------------------------------------------- |  
+| Mon | 03/24 | **Notes**: Speciation                           |  
+| Tue | 03/25 | **Notes**: Speciation                           |  
+| Wed | 03/26 | **Practice**: Speciatoin                        |  
+| Thu | 03/27 | **Notes:** Biogenesis                           |  
+| Fri | 03/28 | **Review:** Phylogeny                           |  
+|     |       | `NEXT WEEK`                                     |  
+| Mon | 03/31 | **Quiz:** Phylogeny and Speciation (Open Notes) |  
+  
   
   
   

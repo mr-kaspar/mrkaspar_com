@@ -10,11 +10,9 @@ nav_order: 1
 | --- | ----- | ----------------------------------------------- |  
 | Mon | 03/24 | **Notes**: Speciation                           |  
 | Tue | 03/25 | **Notes**: Speciation                           |  
-| Wed | 03/26 | **Practice**: Speciatoin                        |  
+| Wed | 03/26 | **Practice**: Speciation                        |  
 | Thu | 03/27 | **Notes:** Biogenesis                           |  
-| Fri | 03/28 | **Review:** Phylogeny                           |  
-|     |       | `NEXT WEEK`                                     |  
-| Mon | 03/31 | **Quiz:** Phylogeny and Speciation (Open Notes) |  
+| Fri | 03/28 | **Quiz:** Phylogeny and Speciation (Open Notes) |  
   
   
   

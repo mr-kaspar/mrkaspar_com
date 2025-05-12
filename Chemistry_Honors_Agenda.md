@@ -16,7 +16,7 @@ nav_order: 2
 | Wed | 05/14 | **Test Review**                                                   |  
 |     |       | **Due:** Practice packet: 1 - 44, 58 - 84                         |  
 | Thu | 05/15 | **Test:** Acids and Bases                                         |  
-| Fri | 05/16 | **TBA:**                                                          |  
+| Fri | 05/16 | **TBA**                                                           |  
     
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule    
 {: .fs-1 }    

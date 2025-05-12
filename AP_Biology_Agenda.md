@@ -6,15 +6,19 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda              |  
-| --- | ----- | ------------------- |  
-| Mon | 04/28 | **Exam Review**     |  
-| Tue | 04/29 | **Exam Review**     |  
-| Wed | 04/30 | **Character Chats** |  
-| Thu | 05/01 | **Exam Review**     |  
-| Fri | 05/02 | **Exam Review**     |  
-| ~ ~ | ~ ~   | ~ ~ ~ ~             |  
-| Mon | 05/5  | **AP EXAM** : *7:30 AM* </br>  `Bring a calculator`         |   
+| Day | Date  | Agenda                            |  
+| --- | ----- | --------------------------------- |  
+| Mon | 05/12 | **Work on Book Project**          |  
+| Tue | 05/13 | **Work on Book Project**          |  
+| Wed | 05/14 | **Work on Book Project**          |  
+| Thu | 05/15 | **Work on Book Project**          |  
+| Fri | 05/16 | **Work on Book Project**          |  
+| ~ ~ | ~ ~   | ~ ~ ~ ~                           |  
+| Mon | 05/19 | **Due:** Book Project             |  
+| Tue | 05/13 | **TBA**                           |  
+| Wed | 05/14 | **TBA**                           |  
+| Thu | 05/15 | **FSDB Students come to class**   |  
+| Fri | 05/16 | **Project Wrap up (if required)** |  
   
   
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule  

@@ -6,20 +6,19 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                            |  
-| --- | ----- | --------------------------------- |  
-| Mon | 05/12 | **Work on Book Project**          |  
-| Tue | 05/13 | **Work on Book Project**          |  
-| Wed | 05/14 | **Work on Book Project**          |  
-| Thu | 05/15 | **Work on Book Project**          |  
-| Fri | 05/16 | **Work on Book Project**          |  
-| ~ ~ | ~ ~   | ~ ~ ~ ~                           |  
-| Mon | 05/19 | **Due:** Book Project             |  
-| Tue | 05/13 | **TBA**                           |  
-| Wed | 05/14 | **TBA**                           |  
-| Thu | 05/15 | **FSDB Students come to class**   |  
-| Fri | 05/16 | **Project Wrap up (if required)** |  
-  
+| Day | Date  | Agenda                                         |  
+| --- | ----- | ---------------------------------------------- |  
+| Mon | 05/19 | **Due:** Book Project                          |  
+| Tue | 05/20 | **TBA**                                        |  
+| Wed | 05/21 | **TBA**                                        |  
+| Thu | 05/22 | **FSDB Students come to class**                |  
+| Fri | 05/23 | **Project Wrap up (if required)**              |  
+| ~ ~ | ~ ~   | ~ ~ ~ ~ ~                                      |  
+| Mon | 5/26  | Memorial Day 🇺🇸                              |  
+| Tue | 5/27  | Last day for test retakes                      |  
+| Wed | 5/28  | Last day to turn in late formative assignments |  
+| Thu | 5/29  | Clean and pack up                              |  
+| Fri | 5/30  | Clean and pack up                              |  
   
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule  
 {: .fs-1 }

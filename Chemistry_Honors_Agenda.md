@@ -15,7 +15,7 @@ nav_order: 2
 | Thu | 05/22 | **Presentation Project**                              |  
 | Fri | 05/23 | **Due:** Presentation Project *Summative Grade*       |  
 | ~ ~ | ~ ~   | ~ ~ ~ ~ ~                                             |  
-| Mon | 5/26  | Memorial Day 🇺🇸                                     |  
+| Mon | 5/26  | **Student/Teacher Holiday** Memorial Day              |  
 | Tue | 5/27  | Last day for test retakes                             |  
 | Wed | 5/28  | **Due** Presentation Quiz Responses *Formative Grade* |  
 | Thu | 5/29  | Clean and pack up                                     |  

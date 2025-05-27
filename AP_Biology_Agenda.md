@@ -15,7 +15,7 @@ nav_order: 1
 | Fri | 05/23 | **Project Wrap up (if required)**               |  
 | ~ ~ | ~ ~   | ~ ~ ~ ~ ~                                       |  
 | Mon | 5/26  | **Student/Teacher Holiday** Memorial Day        |  
-| Tue | 5/27  | **Last day:** Test retakes                      |  
+| Tue | 5/27  | **Last day:** Test retake/late summatives       |  
 | Wed | 5/28  | **Last day:** to turn in  formative assignments |  
 | Thu | 5/29  | Clean and pack up                               |  
 | Fri | 5/30  | Clean and pack up                               |  

@@ -1,9 +1,3 @@
----
-share: true
-layout: minimal
-title: "Chemistry Honors Agenda"
-nav_order: 2
----
 # 🧪 Chemistry Honors Agenda 🥽  
 
 
@@ -11,8 +5,8 @@ nav_order: 2
 | --- | ----- | ------------------------------------------------------------------------------------------ |
 | Mon | 08/11 | **Discussion:** Introduction and expectations </br>`Homework - Get safety contract signed` |
 | Tue | 08/12 | **Activity:** Syllabus and Lab Safety                                                      |
-| Wed | 08/13 | **Polar Bear Inquiry Activity**                                                            |
-| Thu | 08/14 | **Quantitative Skills intro**                                                              |
+| Wed | 08/13 | **Worksheet:** Significant Digits and Measurement                                          |
+| Thu | 08/14 | **Polar Bear Inquiry Activity**                                                            |
 | Fri | 08/15 | **Quiz:** Lab safety </br>**Assignment:** Color by Number                                  |
 
 

@@ -1,3 +1,10 @@
+---
+share: true
+layout: minimal
+title: "Chemistry Honors Agenda"
+nav_order: 2
+---
+
 # 🧪 Chemistry Honors Agenda 🥽  
 
 

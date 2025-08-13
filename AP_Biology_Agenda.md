@@ -1,3 +1,10 @@
+---
+share: true
+layout: minimal
+title: "AP Biology Agenda"
+nav_order: 1
+---
+
 # 🧬 AP Biology Agenda 🦠
 
 | Day | Date  | Agenda                                                                                     |

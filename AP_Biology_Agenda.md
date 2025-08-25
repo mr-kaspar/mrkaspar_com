@@ -11,7 +11,7 @@ nav_order: 1
 | Mon | 08/25 | 📚 **Study Guide**       |  
 | Tue | 08/26 | ❓ **Quiz:** Unit 1       |  
 | Wed | 08/27 | 🔄 **Test Review**       |  
-| Thu | 08/28 | ✏️ **Test** Unit         |  
+| Thu | 08/28 | ✏️ **Test** Unit 1       |  
 | Fri | 08/29 | 🧾**Post-test** analysis |  
   
   

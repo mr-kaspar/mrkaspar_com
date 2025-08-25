@@ -7,13 +7,13 @@ nav_order: 2
 # 🧪 Chemistry Honors Agenda 🥽    
   
   
-| Day | Date  | Agenda                                                     |  
-| --- | ----- | ---------------------------------------------------------- |  
-| Mon | 08/18 | 📝 **Notes:** SI system and Conversions                    |  
-| Tue | 08/19 | 💪 **Practice:** Scientific numbers, rearranging equations |  
-| Wed | 08/20 | 📝 **Notes:** Accuracy and Precision                       |  
-| Thu | 08/21 | 💪 **Practice:** Measurement, Accuracy, and Precision      |  
-| Fri | 08/22 | 🥽 **Lab:** Measurement                                    |  
+| Day | Date  | Agenda                                                                       |  
+| --- | ----- | ---------------------------------------------------------------------------- |  
+| Mon | 08/25 | 🥽 Finish measurement **lab**                                                |  
+| Tue | 08/26 | ❓ **Quiz:** SI units, conversion, significant digits, accuracy and precision |  
+| Wed | 08/27 | 🔄 **Test Review**                                                           |  
+| Thu | 08/28 | ✏️ **Test** Unit 1                                                           |  
+| Fri | 08/29 | 🧾**Post-test**                                                              |  
   
   
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule    

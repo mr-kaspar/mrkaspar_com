@@ -6,13 +6,13 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date  | Agenda                   |  
-| --- | ----- | ------------------------ |  
-| Mon | 08/25 | 📚 **Study Guide**       |  
-| Tue | 08/26 | ❓ **Quiz:** Unit 1       |  
-| Wed | 08/27 | 🔄 **Test Review**       |  
-| Thu | 08/28 | ✏️ **Test** Unit 1       |  
-| Fri | 08/29 | 🧾**Post-test** analysis |  
+| Day | Date  | Agenda                               |  
+| --- | ----- | ------------------------------------ |  
+| Mon | 09/01 | 🇺🇸 **Labor Day**                     |  
+| Tue | 09/02 | 💡 **Intro:** Unit 2                 |  
+| Wed | 09/03 | 📝 **Notes:** Unit 2                 |  
+| Thu | 09/04 | 📝 **Notes:** Unit 2                 |  
+| Fri | 09/05 | 💪 **Practice:** Endomembrane system |  
   
   
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule  

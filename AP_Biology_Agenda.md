@@ -16,7 +16,8 @@ nav_order: 1
 | = = | = =   | = = = = = = = = = = = = = = = = = = =          |  
 | Mon | 09/22 | **TBA**                                        |  
 | Tue | 09/23 | **Test:** Unit 2 `Bring your reflection sheet` |  
-| Wed | 09/24 | **Test Retake***                               |  
+| Wed | 09/24 | **Intro:** Unit 3                              |  
+| Thu | 9/25  | **Test Retake**                                |  
   
   
 This agenda is provided to help you plan your week. It is subject to change based on factors such as overall class progress, material availability, and unscheduled disruptions to the schedule  

@@ -7,11 +7,14 @@ nav_order: 2
 # 🧪 Chemistry Honors Agenda 🥽    
   
   
-| Day | Date  | Agenda                                 |  
-| --- | ----- | -------------------------------------- |  
-| Mon | 10/20 | 💪 **Practice:** Electron calculations |  
-| Tue | 10/07 | 📓 **Notes:** Electron configurations  |  
-| Wed | 10/08 | **PSAT DAY** Schoology assignment      |  
+| Day | Date  | Agenda                                   |  
+| --- | ----- | ---------------------------------------- |  
+| Mon | 10/20 | 💪 **Practice:** Electron calculations   |  
+| Tue | 10/21 | 📓 **Notes:** Electron configurations    |  
+| Wed | 10/22 | **PSAT DAY** Schoology assignment        |  
+| Thu | 10/23 | 🎉 **Mole Day**: BRING SNACKS!           |  
+| Fri | 10/24 | 💪 **Practice:** Electron configurations |  
+  
   
   
   

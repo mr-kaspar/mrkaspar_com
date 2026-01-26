@@ -12,7 +12,7 @@ nav_order: 1
 | Tue | 1/27 | 🧪 **Activity:** Replication vs transcription           |
 | Wed | 1/28 | 💪 **Practice:** Translation steps                      |
 | Thu | 1/29 | 🧪 **Activity:** Modeling transcription and translation |
-| Fri | 1/30 | ❓**Quiz:**** transcription and translation              |
+| Fri | 1/30 | ❓**Quiz:** transcription and translation              |
   
   
   

@@ -7,13 +7,14 @@ nav_order: 2
 # 🧪 Chemistry Honors Agenda 🥽    
   
   
-| Day | Date | Agenda                           |  
-| --- | ---- | -------------------------------- |  
-| Mon | 11/3 | 🔎**Review**                     |  
-| Tue | 11/4 | 📝 **Test:** Electrons and Light |  
-| Wed | 11/5 | ✅ Go over test                   |  
-| Thu | 11/6 | 🌑 **Intro:** Periodic Table     |  
-| Fri | 11/7 | 📓 **Notes:** Periodic Table     |  
+| Day | Date | Agenda                                |
+| --- | ---- | ------------------------------------- |
+| Mon | 1/26 | 🌑 **Intro:** Reaction rate factors  |
+| Tue | 1/27 | 📓 **Notes:** Collision theory        |
+| Wed | 1/28 | 🔁 **Practice:** Dimensional analysis |
+| Thu | 1/29 | 📓 **Notes:** Molarity            |
+| Fri | 1/30 | 📝 **Quiz:** Reaction rates          |
+
   
   
   

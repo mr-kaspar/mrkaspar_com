@@ -6,13 +6,14 @@ nav_order: 1
 ---
 # 🧬 AP Biology Agenda 🦠  
   
-| Day | Date | Agenda                                                  |
-| --- | ---- | ------------------------------------------------------- |
-| Mon | 1/26 | 💪 **Practice:** Replication vs transcription           |
-| Tue | 1/27 | 🧪 **Activity:** Replication vs transcription           |
-| Wed | 1/28 | 💪 **Practice:** Translation steps                      |
-| Thu | 1/29 | 🧪 **Activity:** Modeling transcription and translation |
-| Fri | 1/30 | ❓**Quiz:** transcription and translation              |
+| Day | Date  | Agenda                                                 |  
+| --- | ----- | ------------------------------------------------------ |  
+| Mon | 02/02 | 📓 **Notes:** Eukaryotic gene expression               |  
+| Tue | 02/03 | 🧪 Activity:** Modeling operons                        |  
+| Wed | 02/04 | 📓 **Notes** + practice ?s: Eukaryotic gene expression |  
+| Thu | 02/06 | 🧪 **Lab/Activity:** Case study - gene Expression      |  
+| Fri | 02/07 | 💪 **Practice:** Progress Check: Unit 6                |  
+| Tue | 02/10 | 📝 **Test:** Unit 6                                    |  
   
   
   
